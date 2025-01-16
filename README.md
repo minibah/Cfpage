@@ -1,4 +1,4 @@
-# Welcome to Nautica
+# Welcome to Mini
 
 Sebuah repository serverless tunnel studi kasus Indonesia
 
